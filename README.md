@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/user-attachments/assets/1ae7543d-3ccd-43e8-82c8-70dc9fb95aea" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
