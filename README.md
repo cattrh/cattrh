@@ -17,10 +17,13 @@
 </div>
 
 ### :woman_technologist: About Me :
-- ▶️: I'm study radio engineering at one of the best universities in the country.
+- ▶️ I'm study radio engineering at one of the best universities in the country.
 
-- 🎂: Birthday on September 13th!!! =)
+- 🎂 Birthday on September 13th!!! =)
 
-- 🚗: Porsche is the best and sweetest car in the world.
+- 🚗 Porsche is the best and sweetest car in the world.
 
 - :mailbox:How to reach me: olechkaarustamova@gmail.com
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cattrh&theme=dark&background=000000)](https://git.io/streak-stats)
