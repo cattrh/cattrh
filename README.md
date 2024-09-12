@@ -9,5 +9,5 @@
 </h1>
 
 <div id="badger" align="center">
-  <img src="https://komarev.com/ghpvc/?username=cattrh&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=cattrh&style=flat-square&color=blue" alt=""/>
 </div>
