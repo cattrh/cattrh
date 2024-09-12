@@ -17,7 +17,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :university: I'm study radio engineering at one of the best universities in the country.
 
 - :seedling: Exploring Technical Content Writing.
 
