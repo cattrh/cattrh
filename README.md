@@ -17,10 +17,10 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :university: I'm study radio engineering at one of the best universities in the country.
+- ▶️: I'm study radio engineering at one of the best universities in the country.
 
-- :seedling: Exploring Technical Content Writing.
+- 🎂: Birthday on September 13th!!! =)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🚗: Porsche is the best and sweetest car in the world.
 
 - :mailbox:How to reach me: olechkaarustamova@gmail.com
