@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">
+  <img src=https://github.com/user-attachments/assets/d57c8707-592b-4b23-88bf-7921b249239d width="30px"/>
   Hey there, i'm Olya!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
