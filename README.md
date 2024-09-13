@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ae7543d-3ccd-43e8-82c8-70dc9fb95aea" width="600" height="300"/>
+  <img src="https://github.com/user-attachments/assets/1ae7543d-3ccd-43e8-82c8-70dc9fb95aea" width="600" height="400"/>
 </div>
 
 ### :woman_technologist: About Me :
